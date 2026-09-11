@@ -1,0 +1,17 @@
+
+body {
+        background-image: url("images/bgsun33.jpg");
+
+    }
+@media (max-width: 600px) {
+    body {
+        background-image: url("images/bgsun33.jpg");
+
+    }
+
+
+}
+
+
+
+
